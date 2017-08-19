@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_f0546fee283338177613a80a02b23dce4620f8cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_29dbcbb3bed95ac04502b9d5370aee5979e03ecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\.android\build-cache\30807a8ca05a97ae3d648856cff1a892769696e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acd98197368cf14d56649fb7db8134f7ad83b94b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\.android\build-cache\b36c41a9a2d8e6344b2915624edfc44746f57516\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4276795fab76d2b0b150de41a2f7f76e74d83d39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4c6805d2b3172147e01e57c680f887c5f7b26f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\.android\build-cache\06598e33b47488cb9142cf8418b31e5332f35a0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72b211056237b2f07b8b560652e583d59c663e54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\.android\build-cache\b260da1ea1e9c2ed575faedbdb7b64afeacb41ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6504a28a0ae1a6be727aa77d502176705b5ce958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0732ad4fcd42694a0815dd021a498cdd42606725">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_db03361c19de3596230c194bc8967ec17cebef06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\.android\build-cache\72daf885640e15e004752f8207fee027931ee544\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4d7a2ec24432ccb4eef38809be6b1566d848ddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\.android\build-cache\4d7c59453648a6bf5e1c4351d9b9a0944cf51dc0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbaa993e7ce4a5d58e61a3a713a3d2085c6f9613\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\.android\build-cache\ab9cb30d7414ebd134d45acf880266c58718d4e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f226562a28ee6da3e9574626c3795ca197d9d7ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\.android\build-cache\d19ef749e81ef8c85a4fee6988394b95303de802\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7409ca8b392da07d382bdccdb5c5481e41325647\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\.android\build-cache\4104f0ec1a88bb787329fb4d7bb37c70eaeb98b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c70eb151831ab5ac3aa0c6f76e1d8018ad4f59f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rean\.android\build-cache\185e40729f6a7fbf3905a2a7bb9ead9b4aab3509\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Rean\Desktop\Restaurants-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c397b2a89715c63eec0c7dcec456c68f84bd379\classes.dex" />
+    </item>
+
+</items>
