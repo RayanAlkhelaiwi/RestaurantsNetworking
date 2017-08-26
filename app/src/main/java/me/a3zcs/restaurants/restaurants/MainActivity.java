@@ -1,12 +1,16 @@
 package me.a3zcs.restaurants.restaurants;
 
+import android.content.Context;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+
+import com.squareup.picasso.Picasso;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -25,11 +29,13 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
     private final String ENDPOINT = "http://www.3zcs.me/restaurant.json";
     ProgressBar mProgressBar;
+    Context context;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        context = this;
         mProgressBar = (ProgressBar) findViewById(R.id.progress_bar);
         FetchData obj = new FetchData();
         obj.execute(ENDPOINT);
@@ -94,14 +100,18 @@ public class MainActivity extends AppCompatActivity {
         protected void onPostExecute(List<String> images) {
             super.onPostExecute(images);
             //TODO STOP PROGRESS BAR
-
-            for (int i = 0; i < images.size(); i++)
-                Log.i("My List", images.get(i));
-
             TextView textView = (TextView) findViewById(R.id.text);
-            textView.setText("My List: "+ images.toString());
+            ImageView imageView = (ImageView) findViewById(R.id.load_image);
+            mProgressBar.setVisibility(View.INVISIBLE);
 
-            mProgressBar.setVisibility(View.GONE);
+            for (int i = 0; i < images.size(); i++) {
+                Log.i("My List", images.get(i));
+                Picasso.with(context)
+                        .load(images.get(i))
+                        .into(imageView);
+            }
+
+            textView.setText("My List: " + images.toString());
         }
     }
 }
